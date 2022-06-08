@@ -1,2 +1,3 @@
-#忽略css
-index.css
+
+# 忽略test文件
+test/
